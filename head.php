@@ -31,6 +31,7 @@
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	
+	
 	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
 
 	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
@@ -79,6 +80,13 @@
 							<li><a href="#">DOKUMEN</a></li>										
 							<li><a href="contact.php">HUBUNGI KAMI</a></li>
 							<li class="btn-cta"><a href="https://www.dashboard.mypouch.co.id/auth/login"><span><strong>Masuk</Strong></span></a></li>
+							<li class="has-dropdown1" style="margin-left:-22px;">
+								<a  href="#"><img class="language-icon" src="images/id.svg" /><i style="margin-left:2px; color:white" class="icon-arrow-down"></i></a>
+								<ul class="dropdown">
+									<li><a href="#"><img class="language-icon" src="images/id.svg" /> Indonesia</a></li>
+									<li><a href="#"><img class="language-icon" src="images/en.svg" /> English</a></li>
+								</ul>
+							</li>
 						</ul>
 					</div>
 				</div>
