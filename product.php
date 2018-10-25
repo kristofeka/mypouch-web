@@ -9,7 +9,7 @@
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1 style="color:#fff"><strong>PAYROLL, REFUND DAN DISTRIBUSI DARI DANA PINJAMAN</strong></h1>
 							<h2>Terima Pembayaran melalui Transfer Bank, Virtual Account, Mini Market dan Kirim Dana melalui API.</h2>
-							<p><a href="https://www.dashboard.mypouch.co.id/auth/login" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Get Started</a></p>
+							<p><a href="https://www.dashboard.mypouch.co.id/auth/login" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Mulai Sekarang</a></p>
 						</div>
 					</div>
 				</div>

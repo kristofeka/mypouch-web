@@ -9,7 +9,7 @@
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1 style="color:#fff"><strong>PEMBAYARAN INSTANT DAN REALTIME DI SElURUH INDONESIA</strong></h1>
 							<h2>Kami menyediakan layanan Virtual Account pada berbagai bank untuk berbagai kebutuhan perusahaan di Indonesia, Deteksi pembayaran dari pelanggan anda melalui Virtual Account</h2>
-							<p><a href="https://www.dashboard.mypouch.co.id/auth/login" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Get Started</a></p>
+							<p><a href="https://www.dashboard.mypouch.co.id/auth/login" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Mulai Sekarang</a></p>
 						</div>
 					</div>
 				</div>
@@ -171,7 +171,7 @@
 					<a  href="product.html" class="but_inv_payment btn btn-primary btn-md with-arrow">Buat Akun</a>
 				</div>
 				<div class="col-md-2 but_payment">
-					<a  href="product.html"  class="but_inv_payment1 btn btn-primary btn-md with-arrow">Contact Sales</a>
+					<a  href="product.html"  class="but_inv_payment1 btn btn-primary btn-md with-arrow">Kontak Sales</a>
 				</div>
 			</div>
 		</div>

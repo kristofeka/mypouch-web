@@ -129,7 +129,7 @@
 				<div class="col-md-1">					
 				</div>
 				<div class="col-md-4">
-					<h4 class="get_index">Get In Touch</h4>
+					<h4 class="get_index">Hubungi Kami</h4>
 					<div style="background-color: #fff; border-radius: 20px; padding: 20px 20px 10px 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 					<form action="#">
 						<div class="row form-group">
@@ -169,14 +169,14 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Send Message" class="btn btn-primary">
+							<input type="submit" value="Kirim Pesan" class="btn btn-primary">
 						</div>
 					</form>	
 					</div>
 					
 				</div>
 				<div class="col-md-6">
-					<h3 class="hub_index">Hubungi Kami</h3>	
+					<h3 class="hub_index">Lokasi Kantor</h3>	
 					<br><br>
 					<div class="row">	
 						<div class="col-md-5"></div>
@@ -190,7 +190,7 @@
 					<div class="row" style="margin-bottom: 20px;">	
 						<div class="col-md-5"></div>
 						<div class="col-md-6">
-							<p class="isi_index"><a href="tel://081277028383">081277028383</a></p>
+							<p class="isi_index"><a href="tel://08118060093">08118060093</a><br><a href="tel://087884114526">087884114526</a></p>
 						</div>
 						<div class="col-md-1">
 							<img class="img_index " src="images/icon19.png" alt="">
@@ -199,7 +199,7 @@
 					<div class="row" style="margin-bottom: 20px;">	
 						<div class="col-md-5"></div>
 						<div class="col-md-6">
-							<p class="isi_index"><a href="mailto:info@yoursite.com">info@mypouch.co.id</a></p>
+							<p class="isi_index"><a href="mailto:info@mypouch.com">info@mypouch.co.id</a></p>
 						</div>
 						<div class="col-md-1">
 							<img class="img_index " src="images/icon17.png" alt="">
