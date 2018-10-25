@@ -24,7 +24,7 @@
 						<li  ><a href="syarat.php">Syarat Ketentuan</a></li>
 						<li  ><a href="#sss">Privacy Police</a></li>
 						<li  ><a href="FAQ.php">FAQs</a></li>
-						<li ><a href="company.php">About Us</a></li>
+						<li ><a href="company.php">Tentang Kami</a></li>
 						</ul>
 					</div>
 					</div>
@@ -32,25 +32,24 @@
 				<div class="col-md-3">
 					<div id="fh5co-logo">
 					<div style="padding-top: 55px;">
-						<h3 style="font-weight: bold;" >Subscribe</h3>
+						<h3 style="font-weight: bold;" >Berlangganan</h3>
 						<div class="row">
 							<div class="col-md-7 col-sm-7" style="padding-right:0px;">
 								<div class="form-group">
-									<input type="text" class="form-control footsubs" id="email" placeholder="enter your email">
+									<input type="text" class="form-control footsubs" id="email" placeholder="Masukan e-mail anda">
 								</div>
 							</div>
 							<div class="col-md-5 .col-sm-5" style="padding-left:0px;">
-								<button class="btn footsubsbut">Send</button>
+								<button class="btn footsubsbut">Kirim</button>
 							</div>
 						</div>
 								
 							
 						
-						<h3 style="font-weight: bold;" >Social Media</h3>
+						<h3 style="font-weight: bold;" >Media Sosial</h3>
 						<ul class="fh5co-social-icons">
-						<li style="margin-bottom: 10px; float: left; margin-right:10px;" ><a href="#"><i class="icon-twitter"></i></a></li>
-						<li style="margin-bottom: 10px; float: left; margin-right:10px;" ><a href="#"><i class="icon-linkedin"></i></a></li>
-						<li style="margin-bottom: 10px; float: left; margin-right:10px;" ><a href="#"><i class="icon-email"></i></a></li>
+						<li style="margin-bottom: 10px; float: left; margin-right:10px;" ><a href="https://instagram.com/mypouch"><i class="icon-twitter"></i></a></li>
+						<li style="margin-bottom: 10px; float: left; margin-right:10px;" ><a href="mailto:info@mypouch.com"><i class="icon-email"></i></a></li>
 						<li style="margin-bottom: 10px; float: left;" ><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
