@@ -7,7 +7,7 @@
 				<div class="col-md-6">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1><strong>We are MyPouch</strong></h1>
+							<h1><strong>Kami adalah MyPouch</strong></h1>
 							<h2 style="margin-left:50px; color:#000"; >Fun, Integritas, Dynamic and Team Work</h2>
 							
 						</div>
@@ -49,7 +49,7 @@
 					<h2 class="t_company">TENTANG KAMI</h2>
 					<p class="b_company">MyPouch berdiri sejak tanggal 15 Desember 2017 yang berdomisili di Jakarta Barat. Perusahaan ini hadir dengan beragam inovasi yang telah dikembangkan untuk mendukung serta membantu beberapa perusahaan lain dalam melakukan jasa transfer dana.<br>
 					Mypouch merupakan perusahaan yang bergerak dalam bidang Kegiatan Usaha Pengiriman Uang (KUPU), yang menjalankan usaha transfer dana dengan menggunakan sistem pembayaran elektronik (e-payment). Dalam menjalankan usaha tersebut, Mypouch akan bekerja sama dengan perusahaan rekanan (Klien) dengan memberikan “perintah transfer” untuk mengirim sejumlah dana kepada setiap tujuan transaksi pembayaran.  <br>
-					Dengan kekuatan teknologi yang telah dikembangkan, PT. SDI hadir dengan visi dan misi, serta jangkauan layanan yang bersifat global yang dipersembahkan untuk kepuasan pelanggan.</p>
+					Dengan kekuatan teknologi yang telah dikembangkan,PT.Dananjaya Digital Indonesia hadir dengan visi dan misi, serta jangkauan layanan yang bersifat global yang dipersembahkan untuk kepuasan pelanggan.</p>
 				</div>
 			</div>
 		</div>
@@ -59,7 +59,7 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2 >MEET OUR TEAM</h2>
+					<h2 >TIM KAMI</h2>
 				</div>
 			</div>
 			<div class="row">
@@ -71,9 +71,9 @@
 					  	<div class="fh5co-people">
 							<center>
 								<figure class="imghvr-push-up">
-								<img  src="images/new/1.png" alt="#">
+								<img  src="images/new/1.jpg" alt="#">
 								<figcaption>
-					              <h4 class="member_company">Fasha Darullah</h4>
+					              <h4 class="member_company">Fashah Darullah</h4>
 					              <p class="title_company">Chief Technology Officer</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
@@ -100,7 +100,7 @@
 									<img  src="images/new/3.png" alt="#">
 								<figcaption>
 					              <h4 class="member_company">Tiara Kasih</h4>
-					              <p class="title_company">Chief Executive Owner</p>
+					              <p class="title_company">Chief Executive Officer</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
@@ -162,10 +162,10 @@
 					  	<div class="fh5co-people">
 							<center>
 								<figure class="imghvr-push-up">
-									<img  src="images/new/8.png" alt="#">
+									<img  src="images/new/8.jpg" alt="#">
 								<figcaption>
 					             <h4 class="member_company">Denny Julianto</h4>
-					              <p class="title_company">IT Opertion Manager</p>
+					              <p class="title_company">IT Operation Manager</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
@@ -188,10 +188,36 @@
 					  	<div class="fh5co-people">
 							<center>
 								<figure class="imghvr-push-up">
-									<img  src="images/new/9.png" alt="#">
+									<img  src="images/new/10.jpeg" alt="#">
 								<figcaption>
 								  <h4 class="member_company">Rendy Sutandy</h4>
 					              <p class="title_company">Software Development Manager</p>
+					            </figcaption><a href="javascript:;"></a>
+								</figure>
+							</center>
+						</div>
+					  </div>
+					  <div>
+					  	<div class="fh5co-people">
+							<center>
+								<figure class="imghvr-push-up">
+									<img  src="images/new/11.png" alt="#">
+								<figcaption>
+								  <h4 class="member_company">Akis Latuconsina</h4>
+					              <p class="title_company">Mobile Developer</p>
+					            </figcaption><a href="javascript:;"></a>
+								</figure>
+							</center>
+						</div>
+					  </div>
+					  <div>
+					  	<div class="fh5co-people">
+							<center>
+								<figure class="imghvr-push-up">
+									<img  src="images/new/12.png" alt="#">
+								<figcaption>
+								  <h4 class="member_company">Ricky Hermawan</h4>
+					              <p class="title_company">IT Operation</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
@@ -205,9 +231,9 @@
 					  	<div class="fh5co-people">
 							<center>
 								<figure class="imghvr-push-up">
-								<img  src="images/new/1.png" alt="#">
+								<img  src="images/new/1.jpg" alt="#">
 								<figcaption>
-					              <h4 class="member_company">Fasha Darullah</h4>
+					              <h4 class="member_company">Fashah Darullah</h4>
 					              <p class="title_company">Chief Technology Officer</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
@@ -234,7 +260,7 @@
 									<img  src="images/new/3.png" alt="#">
 								<figcaption>
 					              <h4 class="member_company">Tiara Kasih</h4>
-					              <p class="title_company">Chief Executive Owner</p>
+					              <p class="title_company">Chief Executive Officer</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
@@ -299,7 +325,7 @@
 									<img  src="images/new/8.jpg" alt="#">
 								<figcaption>
 					             <h4 class="member_company">Denny Julianto</h4>
-					              <p class="title_company">IT Opertion Manager</p>
+					              <p class="title_company">IT Operation Manager</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
@@ -322,10 +348,36 @@
 					  	<div class="fh5co-people">
 							<center>
 								<figure class="imghvr-push-up">
-									<img  src="images/new/9.png" alt="#">
+									<img  src="images/new/10.jpeg" alt="#">
 								<figcaption>
 								  <h4 class="member_company">Rendy Sutandy</h4>
 					              <p class="title_company">Software Development Manager</p>
+					            </figcaption><a href="javascript:;"></a>
+								</figure>
+							</center>
+						</div>
+					  </div>
+					  <div>
+					  	<div class="fh5co-people">
+							<center>
+								<figure class="imghvr-push-up">
+									<img  src="images/new/11.png" alt="#">
+								<figcaption>
+								  <h4 class="member_company">Akis Latuconsina</h4>
+					              <p class="title_company">Mobile Developer</p>
+					            </figcaption><a href="javascript:;"></a>
+								</figure>
+							</center>
+						</div>
+					  </div>
+					  <div>
+					  	<div class="fh5co-people">
+							<center>
+								<figure class="imghvr-push-up">
+									<img  src="images/new/12.png" alt="#">
+								<figcaption>
+								  <h4 class="member_company">Ricky Hermawan</h4>
+					              <p class="title_company">IT Operation</p>
 					            </figcaption><a href="javascript:;"></a>
 								</figure>
 							</center>
