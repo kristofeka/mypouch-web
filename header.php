@@ -61,9 +61,9 @@
 					</div>
 					<div class="col-md-8 text-right menu-1">
 						<ul>
-							<li class="active"><a href="index.php">Home</a></li> 
+							<li class="active"><a href="index.php">Beranda</a></li> 
 							<li class="has-dropdown">
-								<a href="#">Product</a>
+								<a href="#">Produk</a>
 								<ul class="dropdown">
 									<li><a href="product.php"><span style="color: #1ccead; font-weight: bold">POUCH</span>DISBURSE</a></li>
 									<li><a href="payment.php"><span style="color: #1ccead; font-weight: bold">POUCH</span>PAYMENT</a></li>
@@ -72,14 +72,14 @@
 							<li class="has-dropdown">
 								<a href="#">Company</a>
 								<ul class="dropdown">
-									<li><a href="company.php">COMPANY</a></li>
-									<li><a href="karir.php">KARIR</a></li>
+									<li><a href="company.php">Tentang Kami</a></li>
+									<li><a href="karir.php">Karir</a></li>
 								</ul>
 							</li>
-											
-							<li><a href="#">Documents</a></li>										
-							<li><a href="contact.php">Contact Us</a></li>
-							<li class="btn-cta"><a href="https://www.dashboard.mypouch.co.id/auth/login"><span><strong>Login</Strong></span></a></li>
+													
+							<li><a href="#">DOKUMEN</a></li>										
+							<li><a href="contact.php">HUBUNGI KAMI</a></li>
+							<li class="btn-cta"><a href="https://www.dashboard.mypouch.co.id/auth/login"><span><strong>Masuk</Strong></span></a></li>
 						</ul>
 					</div>
 				</div>
