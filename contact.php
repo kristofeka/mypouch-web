@@ -23,10 +23,10 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					
 					<div class="fh5co-contact-info">
-						<h3>Informasi Kontank</h3>
+						<h3>Informasi Kantor</h3>
 						<ul>
 							<li class="address">PT. Dananjaya Digital Indonesia, <br>Jl Raya Perjuangan No 12 A, Unit-D,<br>Komplek Ruko Graha Handaya, Lantai 5,<br>Kebon Jeruk, Jakarta Barat, 11530. </li>
-							<li class="phone"><a href="tel://1234567920">081277028383</a></li>
+							<li class="phone"><a href="tel://08118060093">08118060093</a><br><a href="tel://087884114526">087884114526</a></li>
 							<li class="email"><a href="mailto:info@yoursite.com">info@mypouch.co.id</a></li>
 							<li class="url"><a href="www.mypouch.co.id">www.mypouch.co.id</a></li>
 						</ul>
@@ -68,7 +68,7 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Send Message" class="btn btn-primary">
+							<input type="submit" value="Kirim Pesan" class="btn btn-primary">
 						</div>
 
 					</form>		
