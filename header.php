@@ -52,14 +52,14 @@
 		<div class="fh5co-loader"></div>
 	
 	<div id="page">
-	<nav class="fh5co-nav" role="navigation">
+	<nav class="fh5co-nav " role="navigation">
 		<div class="top-menu">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-4">
 						<div id="fh5co-logo"><a href="index.php"><img src="images/head_logo.png" width="300"></a></div>
 					</div>
-					<div class="col-md-8 text-right menu-1">
+					<div class="col-md-8 text-right menu-1" style="margin-top: 10px;">
 						<ul>
 							<li class="active"><a href="index.php">Beranda</a></li> 
 							<li class="has-dropdown">
@@ -79,7 +79,7 @@
 													
 							<li><a href="#">DOKUMEN</a></li>										
 							<li><a href="contact.php">HUBUNGI KAMI</a></li>
-							<li class="btn-cta"><a href="https://www.dashboard.mypouch.co.id/auth/login"><span><strong>Masuk</Strong></span></a></li>
+							<li class="btn-cta"><a href="https://www.dashboard.mypouch.co.id/auth/login"><span>Masuk</span></a></li>
 							<li class="has-dropdown1" style="margin-left:-22px;">
 								<a  href="#"><img class="language-icon" src="images/id.svg" /><i style="margin-left:2px; color:white" class="icon-arrow-down"></i></a>
 								<ul class="dropdown">
