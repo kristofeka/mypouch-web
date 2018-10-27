@@ -29,36 +29,8 @@
 				<div class="col-md-9 col-md-offset-2">
 					<div class="row">
 					 	<div class="col-md-7">
-					 		<h4>Android Developer</h4>
-					 		<p>Engineering</p>
-					 	</div>
-					 	<div class="col-md-2">
-
-					 		<p> <i class="icon-map"></i>&emsp; Jakarta</p>
-					 	</div>
-					 	<div class="col-md-3">
-					 		<a href="#" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Apply</a>
-					 	</div>
-					 </div>
-
-					 <div class="row">
-					 	<div class="col-md-7">
-					 		<h4>Backend Engineer</h4>
-					 		<p>Engineering</p>
-					 	</div>
-					 	<div class="col-md-2">
-
-					 		<p> <i class="icon-map"></i>&emsp; Jakarta</p>
-					 	</div>
-					 	<div class="col-md-3">
-					 		<a href="#" style="margin-left:0px !important;"class="btn btn-primary btn-md with-arrow">Apply</a>
-					 	</div>
-					 </div>
-
-					 <div class="row">
-					 	<div class="col-md-7">
-					 		<h4>Frontend Engineer</h4>
-					 		<p>Engineering</p>
+					 		<h4>Customer Service (Intership)</h4>
+					 		<p>Customer</p>
 					 	</div>
 					 	<div class="col-md-2">
 
