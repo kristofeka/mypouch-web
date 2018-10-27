@@ -85,14 +85,26 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav {
-  position: absolute;
+  position: fixed;
   top: 0;
   margin: 0;
   padding: 0;
   width: 100%;
   padding: 0;
   z-index: 1001;
+  background: transparent;
+  transition: all 0.2s ease-in-out;
 }
+
+.fh5co-nav-scrolled { 
+  background: #565656;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: -37px;
+height: 115px;
+}
+
 .fh5co-nav .top-menu {
 
   padding: 0 0;
@@ -144,7 +156,8 @@ h1, h2, h3, h4, h5, h6, figure {
     display: none;
   }
   .fh5co-nav #fh5co-logo {
-	margin-top: -15px !important;
+  margin-top: 0px !important;
+  align-content: center;
   }
 }
 .fh5co-nav ul {
@@ -613,6 +626,46 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-services .Line1_payment {
  background-color: #ececec; width: 1px;height: 200px;margin-top: 30px;
+}
+
+#fh5co-services .isiSK{
+  color:#000; 
+    font-size: 14px;
+    text-align:justify;
+    font-weight: 300;
+}
+
+#fh5co-services .olcus{
+  list-style-type: upper-alpha;
+}
+
+#fh5co-services .olcus .licus{
+  color: #26df95; 
+  font-size: 16pt; 
+  font-weight: 500; 
+  padding-bottom: 10px;
+}
+
+#fh5co-services .licus2{
+  color: #26df95; 
+  font-size: 14pt; 
+  font-weight: 500; 
+  padding-bottom: 5px; 
+  margin-left:-20px
+}
+
+#fh5co-services .licus2 .pcus2{
+  font-size:11pt; 
+  text-align:justify; 
+  color:#000; 
+  font-weight: 300;
+}
+
+#fh5co-services .olcus .pcus{
+  font-size:11pt; 
+  text-align:justify; 
+  color:#000; 
+  font-weight: 300;
 }
 
 #fh5co-started .but_payment {
@@ -1379,9 +1432,7 @@ h1, h2, h3, h4, h5, h6, figure {
   letter-spacing: 2px;
 }
 
-#fh5co-testimonial {
-  
-}
+
 #fh5co-testimonial .testimony-slide {
   text-align: center;
   background: #fff;
@@ -1738,6 +1789,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav-toggle.fh5co-nav-white > i {
   color: #fff;
   background: #fff;
+  position: fixed;
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
   background: #fff;
@@ -1798,7 +1850,12 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
     display: block;
-    top:40px;
+    top:70px;
+  }
+
+  .fh5co-nav-toggle-scrolled {
+    display: block;
+    top:30px;
   }
 
   .fh5co-nav .top-menu {
@@ -2081,9 +2138,7 @@ h1, h2, h3, h4, h5, h6, figure {
   		background: #f1c40f; width: 600px; margin: 0 10px;height: 400px;color: #fff;font-size: 50px;text-align: center;
   	}
 
-#fh5co-services{
-  
-}	
+
 
 #fh5co-services .row .admin{
 	margin-left:15px; padding-top:100px;
@@ -2401,6 +2456,7 @@ margin-left: 10px;
   #fh5co-services .line2{
   width:auto;
   }
+
 
   #fh5co-started  .logomyp{
     padding-top: 0% !important;
