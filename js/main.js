@@ -104,7 +104,15 @@
 		});
 	};
 
-
+	$(window).scroll(function() {
+		if ($(this).scrollTop() > 50) {
+		  $('.fh5co-nav').addClass('fh5co-nav-scrolled');
+		  $('.fh5co-nav-toggle') .addClass('fh5co-nav-toggle-scrolled');
+		} else {
+		  $('.fh5co-nav').removeClass('fh5co-nav-scrolled');
+		  $('.fh5co-nav-toggle') .removeClass('fh5co-nav-toggle-scrolled');
+		}
+	  });
 
 	var contentWayPoint = function() {
 		var i = 0;
@@ -283,6 +291,7 @@
   autoplay: true,
   autoplaySpeed: 2000,
 });
+
 
 
 }());
