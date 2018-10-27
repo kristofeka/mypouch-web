@@ -108,9 +108,23 @@
 		if ($(this).scrollTop() > 50) {
 		  $('.fh5co-nav').addClass('fh5co-nav-scrolled');
 		  $('.fh5co-nav-toggle') .addClass('fh5co-nav-toggle-scrolled');
+		 
+
 		} else {
 		  $('.fh5co-nav').removeClass('fh5co-nav-scrolled');
 		  $('.fh5co-nav-toggle') .removeClass('fh5co-nav-toggle-scrolled');
+		 
+		}
+	  });
+
+	  $(window).scroll(function() {
+		if ($(this).scrollTop() > 500) {
+		$('.olcus') .addClass('olcus-scrolled');
+		  $('.olcus4') .addClass('olcus4-scrolled');
+		  
+		} else {
+			$('.olcus') .removeClass('olcus-scrolled');
+		  $('.olcus4') .removeClass('olcus4-scrolled');
 		}
 	  });
 
