@@ -22,7 +22,7 @@
 						<h3 style="font-weight: bold;" >Get Help</h3>
 						<ul class="fh5co-footer-links" style="margin-top: 60px;">
 						<li  ><a href="SK.php">Syarat Ketentuan</a></li>
-						<li  ><a href="#sss">Privacy Police</a></li>
+						<li  ><a href="KebijakanPrivasi.php">Kebijakan Privasi</a></li>
 						<li  ><a href="FAQ.php">FAQs</a></li>
 						<li ><a href="company.php">Tentang Kami</a></li>
 						</ul>

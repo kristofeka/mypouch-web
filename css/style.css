@@ -676,6 +676,15 @@ height: 115px;
   margin-left:-20px
 }
 
+#fh5co-services .licu2{
+  color: #000; 
+  font-size: 12pt; 
+  padding-bottom: 5px; 
+  margin-left:-20px;
+  font-weight: 300;
+  list-style-type: circle;
+}
+
 #fh5co-services .licus2 .pcus2{
   font-size:11pt; 
   text-align:justify; 
@@ -2304,6 +2313,7 @@ height: 115px;
   font-size: 12px; 
   margin-left: -50px;
       padding-right: 10px;
+  text-align: justify;
 }
 
 #fh5co-services .jawab2{
